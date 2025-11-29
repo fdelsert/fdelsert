@@ -27,8 +27,8 @@ Cloud & Ops
 <img src="https://img.shields.io/badge/Helm-0F52BA?style=flat&logo=helm&logoColor=white" alt="Helm" />
 
 Practices  
-DDD • CQRS • Event Storming
+TDD • Functional Programming • DDD • CQRS • Event Storming
 
 ### Elsewhere
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1001248/fdelsert)  
-[MemoSwap – my iOS/iPadOS board game](https://memoswap.frederic-delsert.com)
+[MemoSwap – my iOS/iPadOS board game](https://memoswap.frederic-delsert.com) <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
