@@ -1,7 +1,7 @@
 # Hi, I'm Frédéric 👋  
 **Freelance Backend Engineer** – Java/JVM • Go • Kafka  
 Event-driven & streaming specialist  
-France – Available in April 2026
+France – Available in November 2026
 
 ### Core stack
 Languages  
